@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/style.css">
-    <title>毎日日記｜日記を書くための場所</title>
+    <title>毎日日記</title>
 </head>
 <body>
     <header>
@@ -12,14 +12,14 @@
     <main>
         <div id="wrap">
            <ul>
-               <li><a href="login.html" class="button">ログインはこちら</a></li>
-               <li><a href="register.html" class="button">新規登録はこちら</a></li>
+               <li><a href="./login.php" class="button">ログイン</a></li>
+               <li><a href="./register.php" class="button">新規登録</a></li>
            </ul> 
         </div>
     </main>
     <footer>
         <hr>
-        <div>(*´ω｀*)</div>
+        <div>(* 'ω')ﾉ</div>
     </footer>
 </body>
 </html>
